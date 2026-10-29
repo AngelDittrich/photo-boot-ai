@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Datasets capturados (se conserva la carpeta, no su contenido)
+datasets/*
+!datasets/.gitkeep
